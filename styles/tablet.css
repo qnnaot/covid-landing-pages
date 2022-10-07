@@ -1,0 +1,158 @@
+@media screen and (max-width: 1024px) {
+  .banner {
+    background-position: 100%;
+    background-size: 100%;
+  }
+  .treatment .treatment-des {
+    padding: 0 200px;
+  }
+  .what-is-covid {
+    background-position: top;
+    height: 500px;
+  }
+  .what-is-covid-content {
+    padding-top: 24px;
+  }
+  .contact-form {
+    background-size: cover;
+  }
+  .real-story {
+    padding-top: 50px;
+  }
+  .side-navigator {
+    display: none;
+  }
+  .video-story iframe {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 834px) {
+  .nav-link {
+    font-size: 12px;
+  }
+  .video-story iframe {
+    width: 100%;
+    height: 448px;
+  }
+  .what-is-covid {
+    height: 460px;
+    background-size: cover;
+  }
+  .what-is-covid-content {
+    padding-top: 16px;
+  }
+  .symptoms-des {
+    padding: 0 80px;
+  }
+  .treatment-des {
+    padding: 0 80px !important;
+  }
+  .team-card {
+    padding-left: 40px;
+    padding-bottom: 40px;
+    font-size: 20px;
+  }
+  .treatment-number {
+    font-size: 60px;
+  }
+  footer .col-md-5 iframe {
+    width: 340px !important;
+    height: 130px !important;
+  }
+  footer .img-logo {
+    width: 330px;
+  }
+  footer .img-logo img {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 768px) {
+  /* NAVBAR */
+  .nav-bar {
+    padding: 0 8px;
+  }
+  .navbar-brand {
+    height: 60px;
+    margin-right: 0;
+  }
+  .navbar-brand img {
+    height: 100%;
+    /* width: 170px; */
+    margin-right: 0;
+  }
+  .navbar-expand-sm .navbar-nav .nav-link {
+    padding: 18px 0;
+  }
+  .nav-item .nav-link::before {
+    bottom: 10px;
+  }
+  .nav-link.active::before {
+    bottom: 10px;
+  }
+  .nav-link {
+    font-size: 13px;
+  }
+  .nav-item {
+    margin: 0 4px;
+  }
+  .language-toogle .global-icon {
+    height: 26px;
+  }
+  .language-toogle .flag {
+    width: 18px;
+    position: absolute;
+    top: -6px;
+    right: -6px;
+  }
+  /* BANNER */
+  .banner {
+    margin-top: 60px;
+    height: 480px;
+    background-size: 80%;
+  }
+  .banner-content {
+    height: 480px;
+  }
+  .virus-icon-112,
+  .virus-icon-40-2,
+  .virus-icon-20,
+  .virus-icon-24,
+  .virus-icon-44 {
+    display: none;
+  }
+  .virus-icon-85 {
+    top: 380px;
+  }
+  .banner-content {
+    width: 420px;
+  }
+  /* STATISTICAL */
+  .static-content h4 {
+    font-size: 18px;
+    padding: 12px 0;
+  }
+  /* WHAT IS COVID */
+  .what-is-covid {
+    height: 430px;
+  }
+  .what-is-covid-content {
+    padding: 16px 0 0 0;
+  }
+  .what-is-covid h1 {
+    font-size: 36px;
+  }
+  /* SYMPTOMS */
+  .symptoms-des {
+    padding: 0 70px;
+  }
+
+  /* TREATMENT */
+  .treatment .treatment-des {
+    padding: 0 100px;
+  }
+
+  .video-story iframe {
+    width: 740px;
+    height: 410px;
+  }
+}

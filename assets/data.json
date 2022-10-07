@@ -1,0 +1,2412 @@
+[
+  {
+    "name": "Monaco",
+    "id": "MC",
+    "area": "2",
+    "density": "18900",
+    "population": "37800",
+    "cases": 9964,
+    "deaths": 53,
+    "recovered": 9611
+  },
+  {
+    "name": "Singapore",
+    "id": "SG",
+    "area": "719",
+    "density": "7697",
+    "population": "5535000",
+    "cases": 975607,
+    "deaths": 170,
+    "recovered": 932107
+  },
+  {
+    "name": "Hong Kong",
+    "id": "HK",
+    "area": "1104",
+    "density": "6571",
+    "population": "7234800",
+    "cases": 975212,
+    "deaths": 4847,
+    "recovered": 9611
+  },
+  {
+    "name": "Vatican City",
+    "id": "VA",
+    "area": "0.44",
+    "density": "1818",
+    "population": "800",
+    "cases": 29,
+    "deaths": 0,
+    "recovered": 28
+  },
+  {
+    "name": "Bahrain",
+    "id": "BH",
+    "area": "757",
+    "density": "1631",
+    "population": "1234571",
+    "cases": 541184,
+    "deaths": 1464,
+    "recovered": 528300
+  },
+  {
+    "name": "Malta",
+    "id": "MT",
+    "area": "315",
+    "density": "1321",
+    "population": "416055",
+    "cases": 73728,
+    "deaths": 619,
+    "recovered": 70836
+  },
+  {
+    "name": "Bermuda",
+    "id": "BM",
+    "area": "53",
+    "density": "1212",
+    "population": "64237",
+    "cases": 11989,
+    "deaths": 125,
+    "recovered": 11607
+  },
+  {
+    "name": "Bangladesh",
+    "id": "BD",
+    "area": "143998",
+    "density": "1109.37",
+    "population": "159747262",
+    "cases": 1950357,
+    "deaths": 29112,
+    "recovered": 1867161
+  },
+  {
+    "name": "Maldives",
+    "id": "MV",
+    "area": "298",
+    "density": "1065",
+    "population": "317280",
+    "cases": 174658,
+    "deaths": 297,
+    "recovered": 163687
+  },
+  {
+    "name": "Barbados",
+    "id": "BB",
+    "area": "430",
+    "density": "638",
+    "population": "274200",
+    "cases": 57348,
+    "deaths": 326,
+    "recovered": 55892
+  },
+  {
+    "name": "Mauritius",
+    "id": "MU",
+    "area": "2040",
+    "density": "618",
+    "population": "1259838",
+    "cases": 34890,
+    "deaths": 934,
+    "recovered": 32931
+  },
+  {
+    "name": "San Marino",
+    "id": "SM",
+    "area": "61",
+    "density": "531",
+    "population": "32382",
+    "cases": 14726,
+    "deaths": 112,
+    "recovered": 14340
+  },
+  {
+    "name": "Aruba",
+    "id": "AW",
+    "area": "193",
+    "density": "526",
+    "population": "101484",
+    "cases": 33796,
+    "deaths": 212,
+    "recovered": 33522
+  },
+  {
+    "name": "Lebanon",
+    "id": "LB",
+    "area": "10452",
+    "density": "487",
+    "population": "4966000",
+    "cases": 1086382,
+    "deaths": 10226,
+    "recovered": 1009978
+  },
+  {
+    "name": "Rwanda",
+    "id": "RW",
+    "area": "25314",
+    "density": "445",
+    "population": "11262564",
+    "cases": 129615,
+    "deaths": 1458,
+    "recovered": 45522
+  },
+  {
+    "name": "Comoros",
+    "id": "KM",
+    "area": "1861",
+    "density": "422",
+    "population": "784745",
+    "cases": 8074,
+    "deaths": 160,
+    "recovered": 7892
+  },
+  {
+    "name": "Netherlands",
+    "id": "NL",
+    "area": "41526",
+    "density": "409.01",
+    "population": "16984420",
+    "cases": 7327235,
+    "deaths": 21736,
+    "recovered": 5767747
+  },
+  {
+    "name": "Haiti",
+    "id": "HT",
+    "area": "27065",
+    "density": "403",
+    "population": "10911819",
+    "cases": 30478,
+    "deaths": 827,
+    "recovered": 27039
+  },
+  {
+    "name": "Puerto Rico",
+    "id": "PR",
+    "area": "8868",
+    "density": "400",
+    "population": "3548397",
+    "cases": 9964,
+    "deaths": 53,
+    "recovered": 9611
+  },
+  {
+    "name": "India",
+    "id": "IN",
+    "area": "3287240",
+    "density": "390.39",
+    "population": "1283321500",
+    "cases": 43001477,
+    "deaths": 516162,
+    "recovered": 42454546
+  },
+  {
+    "name": "Israel",
+    "id": "IL",
+    "area": "22072",
+    "density": "383.69",
+    "population": "8468851",
+    "cases": 3737352,
+    "deaths": 10405,
+    "recovered": 3686283
+  },
+  {
+    "name": "Belgium",
+    "id": "BE",
+    "area": "30528",
+    "density": "370",
+    "population": "11280134",
+    "cases": 3683784,
+    "deaths": 30492,
+    "recovered": 3417067
+  },
+  {
+    "name": "Burundi",
+    "id": "BI",
+    "area": "27816",
+    "density": "353",
+    "population": "9823828",
+    "cases": 38296,
+    "deaths": 38,
+    "recovered": 773
+  },
+  {
+    "name": "Philippines",
+    "id": "PH",
+    "area": "300000",
+    "density": "342.29",
+    "population": "102687121",
+    "cases": 3672661,
+    "deaths": 57880,
+    "recovered": 3569387
+  },
+  {
+    "name": "Japan",
+    "id": "JP",
+    "area": "377944",
+    "density": "335.58",
+    "population": "126832000",
+    "cases": 5911813,
+    "deaths": 26600,
+    "recovered": 5344759
+  },
+  {
+    "name": "Sri Lanka",
+    "id": "LK",
+    "area": "65610",
+    "density": "309",
+    "population": "20277597",
+    "cases": 657134,
+    "deaths": 16416,
+    "recovered": 619193
+  },
+  {
+    "name": "El Salvador",
+    "id": "SV",
+    "area": "21040",
+    "density": "301",
+    "population": "6340000",
+    "cases": 156364,
+    "deaths": 4104,
+    "recovered": 132410
+  },
+  {
+    "name": "Grenada",
+    "id": "GD",
+    "area": "344",
+    "density": "300",
+    "population": "103328",
+    "cases": 13921,
+    "deaths": 217,
+    "recovered": 13635
+  },
+  {
+    "name": "American Samoa",
+    "id": "AS",
+    "area": "197",
+    "density": "282",
+    "population": "55519",
+    "cases": 9964,
+    "deaths": 53,
+    "recovered": 9611
+  },
+  {
+    "name": "Vietnam",
+    "id": "VN",
+    "area": "331212",
+    "density": "268",
+    "population": "88780000",
+    "cases": 6820458,
+    "deaths": 41607,
+    "recovered": 3547488
+  },
+  {
+    "name": "United Kingdom",
+    "id": "GB",
+    "area": "242910",
+    "density": "262",
+    "population": "64105700",
+    "cases": 19911155,
+    "deaths": 163248,
+    "recovered": 18473970
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "id": "TT",
+    "area": "5155",
+    "density": "258",
+    "population": "1328019",
+    "cases": 133788,
+    "deaths": 3695,
+    "recovered": 116951
+  },
+  {
+    "name": "Jamaica",
+    "id": "JM",
+    "area": "10991",
+    "density": "247",
+    "population": "2711476",
+    "cases": 128426,
+    "deaths": 2855,
+    "recovered": 79730
+  },
+  {
+    "name": "Pakistan",
+    "id": "PK",
+    "area": "803940",
+    "density": "238.93",
+    "population": "192084402",
+    "cases": 1520634,
+    "deaths": 30319,
+    "recovered": 1472828
+  },
+  {
+    "name": "Liechtenstein",
+    "id": "LI",
+    "area": "160",
+    "density": "230",
+    "population": "36842",
+    "cases": 14926,
+    "deaths": 81,
+    "recovered": 14055
+  },
+  {
+    "name": "Germany",
+    "id": "DE",
+    "area": "357168",
+    "density": "228",
+    "population": "81285000",
+    "cases": 17843545,
+    "deaths": 126830,
+    "recovered": 14142500
+  },
+  {
+    "name": "Dominican Republic",
+    "id": "DO",
+    "area": "47875",
+    "density": "220",
+    "population": "10528000",
+    "cases": 576904,
+    "deaths": 4375,
+    "recovered": 572092
+  },
+  {
+    "name": "Cayman Islands",
+    "id": "KY",
+    "area": "259",
+    "density": "214",
+    "population": "55456",
+    "cases": 19433,
+    "deaths": 22,
+    "recovered": 8553
+  },
+  {
+    "name": "Luxembourg",
+    "id": "LU",
+    "area": "2586",
+    "density": "208",
+    "population": "537000",
+    "cases": 196296,
+    "deaths": 1008,
+    "recovered": 182668
+  },
+  {
+    "name": "Italy",
+    "id": "IT",
+    "area": "301308",
+    "density": "202",
+    "population": "60762320",
+    "cases": 13563466,
+    "deaths": 157314,
+    "recovered": 12351985
+  },
+  {
+    "name": "Kuwait",
+    "id": "KW",
+    "area": "17818",
+    "density": "201",
+    "population": "3582054",
+    "cases": 626609,
+    "deaths": 2552,
+    "recovered": 620648
+  },
+  {
+    "name": "Switzerland",
+    "id": "CH",
+    "area": "41285",
+    "density": "201",
+    "population": "8279700",
+    "cases": 3192119,
+    "deaths": 13441,
+    "recovered": 2566023
+  },
+  {
+    "name": "Seychelles",
+    "id": "SC",
+    "area": "455",
+    "density": "200",
+    "population": "90945",
+    "cases": 39761,
+    "deaths": 163,
+    "recovered": 39367
+  },
+  {
+    "name": "British Virgin Islands",
+    "id": "VG",
+    "area": "151",
+    "density": "196",
+    "population": "29537",
+    "cases": 6104,
+    "deaths": 62,
+    "recovered": 0
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "id": "AG",
+    "area": "442",
+    "density": "195",
+    "population": "86295",
+    "cases": 7470,
+    "deaths": 135,
+    "recovered": 7330
+  },
+  {
+    "name": "Nigeria",
+    "id": "NG",
+    "area": "923768",
+    "density": "193",
+    "population": "178517000",
+    "cases": 255092,
+    "deaths": 3142,
+    "recovered": 249457
+  },
+  {
+    "name": "Nepal",
+    "id": "NP",
+    "area": "147181",
+    "density": "180",
+    "population": "26494504",
+    "cases": 978107,
+    "deaths": 11950,
+    "recovered": 961781
+  },
+  {
+    "name": "Qatar",
+    "id": "QA",
+    "area": "11571",
+    "density": "175",
+    "population": "2024707",
+    "cases": 359517,
+    "deaths": 677,
+    "recovered": 357858
+  },
+  {
+    "name": "Gambia",
+    "id": "GM",
+    "area": "10690",
+    "density": "173",
+    "population": "1849000",
+    "cases": 11973,
+    "deaths": 365,
+    "recovered": 11591
+  },
+  {
+    "name": "Andorra",
+    "id": "AD",
+    "area": "464",
+    "density": "164",
+    "population": "76246",
+    "cases": 38794,
+    "deaths": 152,
+    "recovered": 37925
+  },
+  {
+    "name": "Uganda",
+    "id": "UG",
+    "area": "241551",
+    "density": "152",
+    "population": "36600000",
+    "cases": 163542,
+    "deaths": 3594,
+    "recovered": 100129
+  },
+  {
+    "name": "Cyprus",
+    "id": "CY",
+    "area": "5896",
+    "density": "146",
+    "population": "862000",
+    "cases": 363792,
+    "deaths": 904,
+    "recovered": 124370
+  },
+  {
+    "name": "Tonga",
+    "id": "TO",
+    "area": "720",
+    "density": "145",
+    "population": "104270",
+    "cases": 2530,
+    "deaths": 2,
+    "recovered": 896
+  },
+  {
+    "name": "Guatemala",
+    "id": "GT",
+    "area": "108889",
+    "density": "145",
+    "population": "15806675",
+    "cases": 809586,
+    "deaths": 17178,
+    "recovered": 771331
+  },
+  {
+    "name": "Anguilla",
+    "id": "AI",
+    "area": "96",
+    "density": "140",
+    "population": "13452",
+    "cases": 2595,
+    "deaths": 9,
+    "recovered": 2572
+  },
+  {
+    "name": "Czech Republic",
+    "id": "CZ",
+    "area": "78867",
+    "density": "133",
+    "population": "10517400",
+    "cases": 3716181,
+    "deaths": 39271,
+    "recovered": 3596100
+  },
+  {
+    "name": "Denmark",
+    "id": "DK",
+    "area": "43098",
+    "density": "131",
+    "population": "5639719",
+    "cases": 2843361,
+    "deaths": 5300,
+    "recovered": 2677962
+  },
+  {
+    "name": "Thailand",
+    "id": "TH",
+    "area": "513120",
+    "density": "131",
+    "population": "65926261",
+    "cases": 3276098,
+    "deaths": 23998,
+    "recovered": 3026969
+  },
+  {
+    "name": "Indonesia",
+    "id": "ID",
+    "area": "1904569",
+    "density": "135",
+    "population": "257080000",
+    "cases": 5939082,
+    "deaths": 153212,
+    "recovered": 5523393
+  },
+  {
+    "name": "Poland",
+    "id": "PL",
+    "area": "312685",
+    "density": "123",
+    "population": "38496000",
+    "cases": 5863414,
+    "deaths": 113980,
+    "recovered": 5215898
+  },
+  {
+    "name": "Cape Verde",
+    "id": "CV",
+    "area": "4033",
+    "density": "122",
+    "population": "491875",
+    "cases": 55914,
+    "deaths": 401,
+    "recovered": 55453
+  },
+  {
+    "name": "Malawi",
+    "id": "MW",
+    "area": "118484",
+    "density": "121",
+    "population": "14388600",
+    "cases": 85526,
+    "deaths": 2624,
+    "recovered": 77189
+  },
+  {
+    "name": "France",
+    "id": "FR",
+    "area": "543965",
+    "density": "118",
+    "population": "64149000",
+    "cases": 23758447,
+    "deaths": 140613,
+    "recovered": 22394358
+  },
+  {
+    "name": "Syria",
+    "id": "SY",
+    "area": "185180",
+    "density": "115",
+    "population": "21377000",
+    "cases": 55460,
+    "deaths": 3120,
+    "recovered": 50352
+  },
+  {
+    "name": "Portugal",
+    "id": "PT",
+    "area": "92090",
+    "density": "115",
+    "population": "10562178",
+    "cases": 3380263,
+    "deaths": 21285,
+    "recovered": 2876177
+  },
+  {
+    "name": "Slovakia",
+    "id": "SK",
+    "area": "49036",
+    "density": "110",
+    "population": "5410728",
+    "cases": 1608668,
+    "deaths": 19040,
+    "recovered": 1463345
+  },
+  {
+    "name": "Togo",
+    "id": "TG",
+    "area": "56600",
+    "density": "109",
+    "population": "6191155",
+    "cases": 36870,
+    "deaths": 272,
+    "recovered": 36542
+  },
+  {
+    "name": "Azerbaijan",
+    "id": "AZ",
+    "area": "86600",
+    "density": "109",
+    "population": "9477100",
+    "cases": 791077,
+    "deaths": 9633,
+    "recovered": 779987
+  },
+  {
+    "name": "Hungary",
+    "id": "HU",
+    "area": "93029",
+    "density": "106",
+    "population": "9877365",
+    "cases": 1820767,
+    "deaths": 44895,
+    "recovered": 1667111
+  },
+  {
+    "name": "Moldova",
+    "id": "MD",
+    "area": "33843",
+    "density": "105",
+    "population": "3559500",
+    "cases": 508917,
+    "deaths": 11368,
+    "recovered": 492462
+  },
+  {
+    "name": "Ghana",
+    "id": "GH",
+    "area": "238533",
+    "density": "103",
+    "population": "24658823",
+    "cases": 160761,
+    "deaths": 1445,
+    "recovered": 159227
+  },
+  {
+    "name": "Cuba",
+    "id": "CU",
+    "area": "109886",
+    "density": "102",
+    "population": "11163934",
+    "cases": 1078525,
+    "deaths": 8503,
+    "recovered": 1067372
+  },
+  {
+    "name": "Armenia",
+    "id": "AM",
+    "area": "29743",
+    "density": "102",
+    "population": "3024100",
+    "cases": 422202,
+    "deaths": 8589,
+    "recovered": 409047
+  },
+  {
+    "name": "Slovenia",
+    "id": "SI",
+    "area": "20273",
+    "density": "102",
+    "population": "2067741",
+    "cases": 929013,
+    "deaths": 6428,
+    "recovered": 892689
+  },
+  {
+    "name": "Austria",
+    "id": "AT",
+    "area": "83879",
+    "density": "102",
+    "population": "8572895",
+    "cases": 3335900,
+    "deaths": 15320,
+    "recovered": 2887173
+  },
+  {
+    "name": "Turkey",
+    "id": "TR",
+    "area": "783562",
+    "density": "101",
+    "population": "77695904",
+    "cases": 14623028,
+    "deaths": 96853,
+    "recovered": 14245809
+  },
+  {
+    "name": "United Arab Emirates",
+    "id": "AE",
+    "area": "83600",
+    "density": "99",
+    "population": "8264070",
+    "cases": 886687,
+    "deaths": 2302,
+    "recovered": 854007
+  },
+  {
+    "name": "Albania",
+    "id": "AL",
+    "area": "28703",
+    "density": "98",
+    "population": "2821977",
+    "cases": 272804,
+    "deaths": 3487,
+    "recovered": 268662
+  },
+  {
+    "name": "Dominica",
+    "id": "DM",
+    "area": "739",
+    "density": "96",
+    "population": "71293",
+    "cases": 11643,
+    "deaths": 62,
+    "recovered": 11330
+  },
+  {
+    "name": "Spain",
+    "id": "ES",
+    "area": "505990",
+    "density": "92",
+    "population": "46439864",
+    "cases": 11260040,
+    "deaths": 101416,
+    "recovered": 10502784
+  },
+  {
+    "name": "Serbia",
+    "id": "RS",
+    "area": "77474",
+    "density": "92",
+    "population": "7146759",
+    "cases": 1947591,
+    "deaths": 15633,
+    "recovered": 1890523
+  },
+  {
+    "name": "Benin",
+    "id": "BJ",
+    "area": "112622",
+    "density": "92",
+    "population": "10323000",
+    "cases": 26952,
+    "deaths": 163,
+    "recovered": 25506
+  },
+  {
+    "name": "Costa Rica",
+    "id": "CR",
+    "area": "51100",
+    "density": "91",
+    "population": "4667096",
+    "cases": 827346,
+    "deaths": 8202,
+    "recovered": 743751
+  },
+  {
+    "name": "Malaysia",
+    "id": "MY",
+    "area": "330803",
+    "density": "94",
+    "population": "31009000",
+    "cases": 3900433,
+    "deaths": 34099,
+    "recovered": 3567003
+  },
+  {
+    "name": "Egypt",
+    "id": "EG",
+    "area": "1002450",
+    "density": "90.04",
+    "population": "90262915",
+    "cases": 495373,
+    "deaths": 24277,
+    "recovered": 424831
+  },
+  {
+    "name": "Sierra Leone",
+    "id": "SL",
+    "area": "71740",
+    "density": "85",
+    "population": "6092000",
+    "cases": 7670,
+    "deaths": 125,
+    "recovered": 9611
+  },
+  {
+    "name": "Romania",
+    "id": "RO",
+    "area": "238391",
+    "density": "84",
+    "population": "20121641",
+    "cases": 2806881,
+    "deaths": 64581,
+    "recovered": 2606660
+  },
+  {
+    "name": "Cambodia",
+    "id": "KH",
+    "area": "181035",
+    "density": "84",
+    "population": "15184116",
+    "cases": 134624,
+    "deaths": 3049,
+    "recovered": 130407
+  },
+  {
+    "name": "Greece",
+    "id": "GR",
+    "area": "131957",
+    "density": "84",
+    "population": "11123034",
+    "cases": 2708610,
+    "deaths": 26730,
+    "recovered": 2459576
+  },
+  {
+    "name": "Ethiopia",
+    "id": "ET",
+    "area": "1063652",
+    "density": "83",
+    "population": "87952991",
+    "cases": 469329,
+    "deaths": 7488,
+    "recovered": 421540
+  },
+  {
+    "name": "Iraq",
+    "id": "IQ",
+    "area": "434128",
+    "density": "83",
+    "population": "36004552",
+    "cases": 2315134,
+    "deaths": 25119,
+    "recovered": 2270809
+  },
+  {
+    "name": "Kenya",
+    "id": "KE",
+    "area": "581834",
+    "density": "78",
+    "population": "45546000",
+    "cases": 323237,
+    "deaths": 5647,
+    "recovered": 317527
+  },
+  {
+    "name": "Myanmar",
+    "id": "MM",
+    "area": "676577",
+    "density": "76",
+    "population": "51419420",
+    "cases": 607399,
+    "deaths": 19417,
+    "recovered": 560887
+  },
+  {
+    "name": "Croatia",
+    "id": "HR",
+    "area": "56542",
+    "density": "76",
+    "population": "4290612",
+    "cases": 1079397,
+    "deaths": 15392,
+    "recovered": 1052932
+  },
+  {
+    "name": "Honduras",
+    "id": "HN",
+    "area": "112088",
+    "density": "75",
+    "population": "8385072",
+    "cases": 417201,
+    "deaths": 10842,
+    "recovered": 131100
+  },
+  {
+    "name": "Ukraine",
+    "id": "UA",
+    "area": "603628",
+    "density": "75",
+    "population": "45377581",
+    "cases": 4917757,
+    "deaths": 107340,
+    "recovered": 0
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "id": "BA",
+    "area": "51209",
+    "density": "75",
+    "population": "3839737",
+    "cases": 373799,
+    "deaths": 15661,
+    "recovered": 192218
+  },
+  {
+    "name": "Morocco",
+    "id": "MA",
+    "area": "446550",
+    "density": "75.81",
+    "population": "33852687",
+    "cases": 1162288,
+    "deaths": 16048,
+    "recovered": 1145572
+  },
+  {
+    "name": "Jordan",
+    "id": "JO",
+    "area": "89342",
+    "density": "76.43",
+    "population": "6828820",
+    "cases": 1680179,
+    "deaths": 13959,
+    "recovered": 1647266
+  },
+  {
+    "name": "Swaziland",
+    "id": "SZ",
+    "area": "17364",
+    "density": "72",
+    "population": "1250000",
+    "cases": 69507,
+    "deaths": 1392,
+    "recovered": 68051
+  },
+  {
+    "name": "Senegal",
+    "id": "SN",
+    "area": "196722",
+    "density": "69",
+    "population": "13567338",
+    "cases": 85818,
+    "deaths": 1964,
+    "recovered": 83810
+  },
+  {
+    "name": "Uzbekistan",
+    "id": "UZ",
+    "area": "444103",
+    "density": "69",
+    "population": "30492800",
+    "cases": 237384,
+    "deaths": 1637,
+    "recovered": 234860
+  },
+  {
+    "name": "Lesotho",
+    "id": "LS",
+    "area": "30355",
+    "density": "68",
+    "population": "2074000",
+    "cases": 32775,
+    "deaths": 697,
+    "recovered": 23900
+  },
+  {
+    "name": "Brunei",
+    "id": "BN",
+    "area": "5765",
+    "density": "68",
+    "population": "393162",
+    "cases": 120600,
+    "deaths": 177,
+    "recovered": 100048
+  },
+  {
+    "name": "Tunisia",
+    "id": "TN",
+    "area": "163610",
+    "density": "66",
+    "population": "10777500",
+    "cases": 1029762,
+    "deaths": 28065,
+    "recovered": 983630
+  },
+  {
+    "name": "Bulgaria",
+    "id": "BG",
+    "area": "111002",
+    "density": "66",
+    "population": "7282041",
+    "cases": 1119474,
+    "deaths": 36222,
+    "recovered": 889474
+  },
+  {
+    "name": "Ireland",
+    "id": "IE",
+    "area": "70273",
+    "density": "65",
+    "population": "4585400",
+    "cases": 1365467,
+    "deaths": 6638,
+    "recovered": 1248933
+  },
+  {
+    "name": "Georgia",
+    "id": "GE",
+    "area": "69700",
+    "density": "64",
+    "population": "4490500",
+    "cases": 1639678,
+    "deaths": 16612,
+    "recovered": 1594011
+  },
+  {
+    "name": "Burkina Faso",
+    "id": "BF",
+    "area": "270764",
+    "density": "64",
+    "population": "17322796",
+    "cases": 20751,
+    "deaths": 375,
+    "recovered": 20309
+  },
+  {
+    "name": "Cook Islands",
+    "id": "CK",
+    "area": "237",
+    "density": "63",
+    "population": "14974",
+    "cases": 476,
+    "deaths": 0,
+    "recovered": 132
+  },
+  {
+    "name": "Ecuador",
+    "id": "EC",
+    "area": "255595",
+    "density": "63",
+    "population": "16168300",
+    "cases": 849699,
+    "deaths": 35348,
+    "recovered": 0
+  },
+  {
+    "name": "Mexico",
+    "id": "MX",
+    "area": "1967138",
+    "density": "61",
+    "population": "119713203",
+    "cases": 5619780,
+    "deaths": 321619,
+    "recovered": 4912654
+  },
+  {
+    "name": "Equatorial Guinea",
+    "id": "GQ",
+    "area": "28051",
+    "density": "58",
+    "population": "1622000",
+    "cases": 15899,
+    "deaths": 183,
+    "recovered": 15679
+  },
+  {
+    "name": "Tajikistan",
+    "id": "TJ",
+    "area": "143100",
+    "density": "57",
+    "population": "8160000",
+    "cases": 17388,
+    "deaths": 124,
+    "recovered": 17264
+  },
+  {
+    "name": "Yemen",
+    "id": "YE",
+    "area": "455000",
+    "density": "54",
+    "population": "24527000",
+    "cases": 11797,
+    "deaths": 2140,
+    "recovered": 8901
+  },
+  {
+    "name": "Eritrea",
+    "id": "ER",
+    "area": "121100",
+    "density": "52",
+    "population": "6333000",
+    "cases": 9722,
+    "deaths": 103,
+    "recovered": 9617
+  },
+  {
+    "name": "Tanzania",
+    "id": "TZ",
+    "area": "883749",
+    "density": "51",
+    "population": "44928923",
+    "cases": 33773,
+    "deaths": 800,
+    "recovered": 0
+  },
+  {
+    "name": "Nicaragua",
+    "id": "NI",
+    "area": "121428",
+    "density": "50",
+    "population": "6071045",
+    "cases": 18290,
+    "deaths": 223,
+    "recovered": 4225
+  },
+  {
+    "name": "Iran",
+    "id": "IR",
+    "area": "1648195",
+    "density": "47.9",
+    "population": "78952792",
+    "cases": 7135719,
+    "deaths": 139387,
+    "recovered": 6805081
+  },
+  {
+    "name": "Fiji",
+    "id": "FJ",
+    "area": "18333",
+    "density": "47",
+    "population": "858038",
+    "cases": 64154,
+    "deaths": 834,
+    "recovered": 62248
+  },
+  {
+    "name": "Panama",
+    "id": "PA",
+    "area": "74177",
+    "density": "46",
+    "population": "3405813",
+    "cases": 760405,
+    "deaths": 8146,
+    "recovered": 749824
+  },
+  {
+    "name": "Belarus",
+    "id": "BY",
+    "area": "207600",
+    "density": "46",
+    "population": "9469200",
+    "cases": 946674,
+    "deaths": 6698,
+    "recovered": 928536
+  },
+  {
+    "name": "Lithuania",
+    "id": "LT",
+    "area": "65300",
+    "density": "45",
+    "population": "2944459",
+    "cases": 980331,
+    "deaths": 8692,
+    "recovered": 898089
+  },
+  {
+    "name": "Montenegro",
+    "id": "ME",
+    "area": "13812",
+    "density": "45",
+    "population": "620029",
+    "cases": 231816,
+    "deaths": 2695,
+    "recovered": 228368
+  },
+  {
+    "name": "Cameroon",
+    "id": "CM",
+    "area": "466050",
+    "density": "44",
+    "population": "20386799",
+    "cases": 119414,
+    "deaths": 1926,
+    "recovered": 117263
+  },
+  {
+    "name": "Guinea",
+    "id": "GN",
+    "area": "245857",
+    "density": "43",
+    "population": "10628972",
+    "cases": 36435,
+    "deaths": 440,
+    "recovered": 35950
+  },
+  {
+    "name": "South Africa",
+    "id": "ZA",
+    "area": "1220813",
+    "density": "43",
+    "population": "52981991",
+    "cases": 3698803,
+    "deaths": 99767,
+    "recovered": 3584293
+  },
+  {
+    "name": "Palau",
+    "id": "PW",
+    "area": "488",
+    "density": "43",
+    "population": "20901",
+    "cases": 3935,
+    "deaths": 6,
+    "recovered": 3639
+  },
+  {
+    "name": "Guinea-Bissau",
+    "id": "GW",
+    "area": "36125",
+    "density": "42",
+    "population": "1520830",
+    "cases": 8071,
+    "deaths": 169,
+    "recovered": 7077
+  },
+  {
+    "name": "Colombia",
+    "id": "CO",
+    "area": "1141748",
+    "density": "42.47",
+    "population": "48491772",
+    "cases": 6078487,
+    "deaths": 139361,
+    "recovered": 5910525
+  },
+  {
+    "name": "Afghanistan",
+    "id": "AF",
+    "area": "645807",
+    "density": "39",
+    "population": "25500100",
+    "cases": 176918,
+    "deaths": 7651,
+    "recovered": 159569
+  },
+  {
+    "name": "Djibouti",
+    "id": "DJ",
+    "area": "23000",
+    "density": "38",
+    "population": "864618",
+    "cases": 15572,
+    "deaths": 189,
+    "recovered": 15376
+  },
+  {
+    "name": "Liberia",
+    "id": "LR",
+    "area": "97036",
+    "density": "36",
+    "population": "3476608",
+    "cases": 7397,
+    "deaths": 294,
+    "recovered": 5747
+  },
+  {
+    "name": "Madagascar",
+    "id": "MG",
+    "area": "587041",
+    "density": "35",
+    "population": "20696070",
+    "cases": 63870,
+    "deaths": 1377,
+    "recovered": 59156
+  },
+  {
+    "name": "Faroe Islands",
+    "id": "FO",
+    "area": "1399",
+    "density": "34",
+    "population": "48244",
+    "cases": 34237,
+    "deaths": 28,
+    "recovered": 7693
+  },
+  {
+    "name": "Zimbabwe",
+    "id": "ZW",
+    "area": "390757",
+    "density": "33",
+    "population": "12973808",
+    "cases": 243650,
+    "deaths": 5418,
+    "recovered": 233264
+  },
+  {
+    "name": "United States",
+    "id": "US",
+    "area": "9826675",
+    "density": "32.84",
+    "population": "322686937",
+    "cases": 81289602,
+    "deaths": 994739,
+    "recovered": 56631117
+  },
+  {
+    "name": "Venezuela",
+    "id": "VE",
+    "area": "916445",
+    "density": "32",
+    "population": "28946101",
+    "cases": 519059,
+    "deaths": 5663,
+    "recovered": 510178
+  },
+  {
+    "name": "Latvia",
+    "id": "LV",
+    "area": "64562",
+    "density": "31",
+    "population": "2005200",
+    "cases": 761074,
+    "deaths": 5484,
+    "recovered": 667949
+  },
+  {
+    "name": "Mozambique",
+    "id": "MZ",
+    "area": "799380",
+    "density": "29.6",
+    "population": "23700715",
+    "cases": 225194,
+    "deaths": 2198,
+    "recovered": 221989
+  },
+  {
+    "name": "Kyrgyzstan",
+    "id": "KG",
+    "area": "199945",
+    "density": "29.5",
+    "population": "5895100",
+    "cases": 200776,
+    "deaths": 2976,
+    "recovered": 195985
+  },
+  {
+    "name": "Estonia",
+    "id": "EE",
+    "area": "45339",
+    "density": "29",
+    "population": "1313271",
+    "cases": 538673,
+    "deaths": 2376,
+    "recovered": 442625
+  },
+  {
+    "name": "Laos",
+    "id": "LA",
+    "area": "236800",
+    "density": "27.8",
+    "population": "6580800",
+    "cases": 149131,
+    "deaths": 643,
+    "recovered": 7660
+  },
+  {
+    "name": "Bahamas",
+    "id": "BS",
+    "area": "13940",
+    "density": "25.2",
+    "population": "351461",
+    "cases": 33206,
+    "deaths": 773,
+    "recovered": 32135
+  },
+  {
+    "name": "Brazil",
+    "id": "BR",
+    "area": "8515767",
+    "density": "23.8",
+    "population": "202768562",
+    "cases": 29478039,
+    "deaths": 656003,
+    "recovered": 28063760
+  },
+  {
+    "name": "Peru",
+    "id": "PE",
+    "area": "1285216",
+    "density": "23.7",
+    "population": "30475144",
+    "cases": 3537488,
+    "deaths": 211619,
+    "recovered": 0
+  },
+  {
+    "name": "Chile",
+    "id": "CL",
+    "area": "756096",
+    "density": "22",
+    "population": "16634603",
+    "cases": 3336614,
+    "deaths": 44062,
+    "recovered": 2610785
+  },
+  {
+    "name": "Sweden",
+    "id": "SE",
+    "area": "449964",
+    "density": "21.7",
+    "population": "9747355",
+    "cases": 2473707,
+    "deaths": 17961,
+    "recovered": 2396572
+  },
+  {
+    "name": "Bhutan",
+    "id": "BT",
+    "area": "38394",
+    "density": "20",
+    "population": "769500",
+    "cases": 20722,
+    "deaths": 7,
+    "recovered": 15939
+  },
+  {
+    "name": "Uruguay",
+    "id": "UY",
+    "area": "176215",
+    "density": "18.6",
+    "population": "3286314",
+    "cases": 868952,
+    "deaths": 7116,
+    "recovered": 852383
+  },
+  {
+    "name": "Finland",
+    "id": "FI",
+    "area": "338424",
+    "density": "16.2",
+    "population": "5489057",
+    "cases": 782912,
+    "deaths": 2783,
+    "recovered": 46000
+  },
+  {
+    "name": "South Sudan",
+    "id": "SS",
+    "area": "644329",
+    "density": "17.5",
+    "population": "11296000",
+    "cases": 17073,
+    "deaths": 138,
+    "recovered": 13507
+  },
+  {
+    "name": "Zambia",
+    "id": "ZM",
+    "area": "752612",
+    "density": "17.4",
+    "population": "13092666",
+    "cases": 315623,
+    "deaths": 3962,
+    "recovered": 310706
+  },
+  {
+    "name": "Sudan",
+    "id": "SD",
+    "area": "1839542",
+    "density": "16.8",
+    "population": "30894000",
+    "cases": 61715,
+    "deaths": 4874,
+    "recovered": 0
+  },
+  {
+    "name": "New Zealand",
+    "id": "NZ",
+    "area": "270467",
+    "density": "17.21",
+    "population": "4654002",
+    "cases": 438477,
+    "deaths": 135,
+    "recovered": 238495
+  },
+  {
+    "name": "Angola",
+    "id": "AO",
+    "area": "1246700",
+    "density": "16.5",
+    "population": "20609294",
+    "cases": 98985,
+    "deaths": 1900,
+    "recovered": 96939
+  },
+  {
+    "name": "Paraguay",
+    "id": "PY",
+    "area": "406752",
+    "density": "16.4",
+    "population": "6672631",
+    "cases": 646495,
+    "deaths": 18555,
+    "recovered": 621615
+  },
+  {
+    "name": "Algeria",
+    "id": "DZ",
+    "area": "2381741",
+    "density": "16.2",
+    "population": "38700000",
+    "cases": 265496,
+    "deaths": 6869,
+    "recovered": 178117
+  },
+  {
+    "name": "Norway",
+    "id": "NO",
+    "area": "323782",
+    "density": "15.6",
+    "population": "5063709",
+    "cases": 1368165,
+    "deaths": 1826,
+    "recovered": 0
+  },
+  {
+    "name": "Papua New Guinea",
+    "id": "PG",
+    "area": "462840",
+    "density": "16",
+    "population": "7398500",
+    "cases": 41533,
+    "deaths": 639,
+    "recovered": 39905
+  },
+  {
+    "name": "Somalia",
+    "id": "SO",
+    "area": "637657",
+    "density": "14.6",
+    "population": "9331000",
+    "cases": 26400,
+    "deaths": 1348,
+    "recovered": 13182
+  },
+  {
+    "name": "Niger",
+    "id": "NE",
+    "area": "1186408",
+    "density": "14.4",
+    "population": "17129076",
+    "cases": 8786,
+    "deaths": 308,
+    "recovered": 8465
+  },
+  {
+    "name": "Argentina",
+    "id": "AR",
+    "area": "2780400",
+    "density": "14.4",
+    "population": "40117096",
+    "cases": 8985836,
+    "deaths": 127334,
+    "recovered": 8791259
+  },
+  {
+    "name": "Belize",
+    "id": "BZ",
+    "area": "22965",
+    "density": "14.1",
+    "population": "324528",
+    "cases": 57113,
+    "deaths": 652,
+    "recovered": 56074
+  },
+  {
+    "name": "Saudi Arabia",
+    "id": "SA",
+    "area": "2149690",
+    "density": "14",
+    "population": "29994272",
+    "cases": 749268,
+    "deaths": 9024,
+    "recovered": 731638
+  },
+  {
+    "name": "Oman",
+    "id": "OM",
+    "area": "309500",
+    "density": "13.5",
+    "population": "4183841",
+    "cases": 387180,
+    "deaths": 4250,
+    "recovered": 380425
+  },
+  {
+    "name": "Mali",
+    "id": "ML",
+    "area": "1248574",
+    "density": "11.6",
+    "population": "14528662",
+    "cases": 30433,
+    "deaths": 727,
+    "recovered": 29590
+  },
+  {
+    "name": "Turkmenistan",
+    "id": "TM",
+    "area": "491210",
+    "density": "10.7",
+    "population": "5240000",
+    "cases": 9964,
+    "deaths": 53,
+    "recovered": 9611
+  },
+  {
+    "name": "Bolivia",
+    "id": "BO",
+    "area": "1098581",
+    "density": "9.46",
+    "population": "10389913",
+    "cases": 898464,
+    "deaths": 21476,
+    "recovered": 811581
+  },
+  {
+    "name": "Chad",
+    "id": "TD",
+    "area": "1284000",
+    "density": "8.78",
+    "population": "11274106",
+    "cases": 7267,
+    "deaths": 190,
+    "recovered": 4874
+  },
+  {
+    "name": "Russia",
+    "id": "RU",
+    "area": "17098242",
+    "density": "8.42",
+    "population": "143975923",
+    "cases": 17484257,
+    "deaths": 363039,
+    "recovered": 15934645
+  },
+  {
+    "name": "Central African Republic",
+    "id": "CF",
+    "area": "622436",
+    "density": "7.42",
+    "population": "4616000",
+    "cases": 14649,
+    "deaths": 113,
+    "recovered": 6859
+  },
+  {
+    "name": "Gabon",
+    "id": "GA",
+    "area": "267667",
+    "density": "6.25",
+    "population": "1672000",
+    "cases": 47570,
+    "deaths": 303,
+    "recovered": 47244
+  },
+  {
+    "name": "Kazakhstan",
+    "id": "KZ",
+    "area": "2724900",
+    "density": "6.31",
+    "population": "17186000",
+    "cases": 1304723,
+    "deaths": 13650,
+    "recovered": 1282851
+  },
+  {
+    "name": "Guyana",
+    "id": "GY",
+    "area": "214999",
+    "density": "3.65",
+    "population": "784894",
+    "cases": 63169,
+    "deaths": 1226,
+    "recovered": 61772
+  },
+  {
+    "name": "Canada",
+    "id": "CA",
+    "area": "9984670",
+    "density": "3.63",
+    "population": "36256492",
+    "cases": 3379712,
+    "deaths": 37035,
+    "recovered": 3227286
+  },
+  {
+    "name": "Libya",
+    "id": "LY",
+    "area": "1770060",
+    "density": "3.5",
+    "population": "6244174",
+    "cases": 500760,
+    "deaths": 6365,
+    "recovered": 486171
+  },
+  {
+    "name": "Botswana",
+    "id": "BW",
+    "area": "581730",
+    "density": "3.48",
+    "population": "2024904",
+    "cases": 263950,
+    "deaths": 2619,
+    "recovered": 259434
+  },
+  {
+    "name": "Mauritania",
+    "id": "MR",
+    "area": "1030700",
+    "density": "3.36",
+    "population": "3461041",
+    "cases": 58660,
+    "deaths": 981,
+    "recovered": 57663
+  },
+  {
+    "name": "Suriname",
+    "id": "SR",
+    "area": "163820",
+    "density": "3.26",
+    "population": "534189",
+    "cases": 78860,
+    "deaths": 1322,
+    "recovered": 49368
+  },
+  {
+    "name": "Iceland",
+    "id": "IS",
+    "area": "102800",
+    "density": "3.21",
+    "population": "329740",
+    "cases": 169258,
+    "deaths": 91,
+    "recovered": 75685
+  },
+  {
+    "name": "Australia",
+    "id": "AU",
+    "area": "7692024",
+    "density": "3.12",
+    "population": "23975613",
+    "cases": 3767956,
+    "deaths": 5665,
+    "recovered": 3411134
+  },
+  {
+    "name": "Namibia",
+    "id": "NA",
+    "area": "825118",
+    "density": "2.56",
+    "population": "2113077",
+    "cases": 157471,
+    "deaths": 4014,
+    "recovered": 153069
+  },
+  {
+    "name": "Western Sahara",
+    "id": "EH",
+    "area": "252120",
+    "density": "2.25",
+    "population": "567000",
+    "cases": 10,
+    "deaths": 1,
+    "recovered": 8
+  },
+  {
+    "name": "Mongolia",
+    "id": "MN",
+    "area": "1564100",
+    "density": "1.92",
+    "population": "3000000",
+    "cases": 467359,
+    "deaths": 2177,
+    "recovered": 313256
+  },
+  {
+    "name": "Pitcairn Islands",
+    "id": "PN",
+    "area": "47",
+    "density": "1.19",
+    "population": "56",
+    "cases": 9964,
+    "deaths": 53,
+    "recovered": 9611
+  },
+  {
+    "name": "Falkland Islands",
+    "id": "FK",
+    "area": "12173",
+    "density": "0.21",
+    "population": "2563",
+    "cases": 118,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "Greenland",
+    "id": "GL",
+    "area": "2166000",
+    "density": "0.03",
+    "population": "55984",
+    "cases": 11901,
+    "deaths": 20,
+    "recovered": 2761
+  },
+  {
+    "name": "Macau",
+    "id": "MO",
+    "area": "30.3",
+    "density": "21224",
+    "population": "643100",
+    "cases": 82,
+    "deaths": 0,
+    "recovered": 79
+  },
+  {
+    "name": "Gibraltar",
+    "id": "GI",
+    "area": "7",
+    "density": "4250",
+    "population": "29752",
+    "cases": 16053,
+    "deaths": 101,
+    "recovered": 15588
+  },
+  {
+    "name": "Sint Maarten",
+    "id": "SX",
+    "area": "34",
+    "density": "1101",
+    "population": "37429",
+    "cases": 9631,
+    "deaths": 85,
+    "recovered": 9516
+  },
+  {
+    "name": "Jersey",
+    "id": "JE",
+    "area": "116",
+    "density": "844",
+    "population": "97857",
+    "cases": 60210,
+    "deaths": 147,
+    "recovered": 55010
+  },
+  {
+    "name": "Guernsey",
+    "id": "GG",
+    "area": "78",
+    "density": "800",
+    "population": "62431",
+    "cases": 9964,
+    "deaths": 53,
+    "recovered": 9611
+  },
+  {
+    "name": "Palestine",
+    "id": "PS",
+    "area": "6020",
+    "density": "756",
+    "population": "4550368",
+    "cases": 580165,
+    "deaths": 5326,
+    "recovered": 571646
+  },
+  {
+    "name": "Taiwan",
+    "id": "TW",
+    "area": "36191",
+    "density": "647",
+    "population": "23410280",
+    "cases": 21583,
+    "deaths": 853,
+    "recovered": 19451
+  },
+  {
+    "name": "Mayotte",
+    "id": "YT",
+    "area": "374",
+    "density": "568",
+    "population": "212600",
+    "cases": 36745,
+    "deaths": 187,
+    "recovered": 2964
+  },
+  {
+    "name": "South Korea",
+    "id": "KR",
+    "area": "100210",
+    "density": "503",
+    "population": "50423955",
+    "cases": 8250592,
+    "deaths": 11481,
+    "recovered": 0
+  },
+  {
+    "name": "Nauru",
+    "id": "NR",
+    "area": "21",
+    "density": "480",
+    "population": "10084",
+    "cases": 9964,
+    "deaths": 53,
+    "recovered": 9611
+  },
+  {
+    "name": "Tuvalu",
+    "id": "TV",
+    "area": "26",
+    "density": "436",
+    "population": "11323",
+    "cases": 9964,
+    "deaths": 53,
+    "recovered": 9611
+  },
+  {
+    "name": "Saint Barthélemy",
+    "id": "BL",
+    "area": "21",
+    "density": "426",
+    "population": "8938",
+    "cases": 9964,
+    "deaths": 53,
+    "recovered": 9611
+  },
+  {
+    "name": "Martinique",
+    "id": "MQ",
+    "area": "1128",
+    "density": "349",
+    "population": "394173",
+    "cases": 135881,
+    "deaths": 905,
+    "recovered": 104
+  },
+  {
+    "name": "Curaçao",
+    "id": "CW",
+    "area": "444",
+    "density": "339",
+    "population": "150563",
+    "cases": 39459,
+    "deaths": 265,
+    "recovered": 38760
+  },
+  {
+    "name": "Réunion",
+    "id": "RE",
+    "area": "2512",
+    "density": "327",
+    "population": "821136",
+    "cases": 318695,
+    "deaths": 689,
+    "recovered": 306072
+  },
+  {
+    "name": "Marshall Islands",
+    "id": "MH",
+    "area": "181",
+    "density": "310",
+    "population": "56086",
+    "cases": 7,
+    "deaths": 0,
+    "recovered": 7
+  },
+  {
+    "name": "United States Virgin Islands",
+    "id": "VI",
+    "area": "352",
+    "density": "302",
+    "population": "106405",
+    "cases": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "Guam",
+    "id": "GU",
+    "area": "541",
+    "density": "295",
+    "population": "159358",
+    "cases": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "Saint Lucia",
+    "id": "LC",
+    "area": "617",
+    "density": "270",
+    "population": "166526",
+    "cases": 22870,
+    "deaths": 365,
+    "recovered": 22468
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "id": "VC",
+    "area": "389",
+    "density": "259",
+    "population": "100892",
+    "cases": 6743,
+    "deaths": 106,
+    "recovered": 6636
+  },
+  {
+    "name": "Guadeloupe",
+    "id": "GP",
+    "area": "1630",
+    "density": "247",
+    "population": "403355",
+    "cases": 130705,
+    "deaths": 843,
+    "recovered": 2250
+  },
+  {
+    "name": "North Korea",
+    "id": "KP",
+    "area": "122762",
+    "density": "205",
+    "population": "25155000",
+    "cases": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "id": "KN",
+    "area": "270",
+    "density": "192",
+    "population": "51970",
+    "cases": 5541,
+    "deaths": 42,
+    "recovered": 5496
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "id": "\tST",
+    "area": "1001",
+    "density": "187",
+    "population": "187356",
+    "cases": 5938,
+    "deaths": 72,
+    "recovered": 5862
+  },
+  {
+    "name": "Kosovo",
+    "id": "XK",
+    "area": "10910",
+    "density": "166",
+    "population": "1815606",
+    "cases": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "Isle of Man",
+    "id": "IM",
+    "area": "572",
+    "density": "148",
+    "population": "84497",
+    "cases": 25542,
+    "deaths": 81,
+    "recovered": 23774
+  },
+  {
+    "name": "Kiribati",
+    "id": "KI",
+    "area": "726",
+    "density": "147",
+    "population": "106461",
+    "cases": 3041,
+    "deaths": 13,
+    "recovered": 2467
+  },
+  {
+    "name": "Federated States of Micronesia",
+    "id": "FM",
+    "area": "701",
+    "density": "145",
+    "population": "101351",
+    "cases": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "China",
+    "id": "CN",
+    "area": "9640821",
+    "density": "142.56",
+    "population": "1374421995",
+    "cases": 123773,
+    "deaths": 4636,
+    "recovered": 104287
+  },
+  {
+    "name": "Tokelau",
+    "id": "TK",
+    "area": "10",
+    "density": "141",
+    "population": "1411",
+    "cases": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "id": "MP",
+    "area": "457",
+    "density": "118",
+    "population": "53883",
+    "cases": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "Macedonia",
+    "id": "MK",
+    "area": "25713",
+    "density": "80",
+    "population": "2062294",
+    "cases": 302224,
+    "deaths": 9159,
+    "recovered": 291144
+  },
+  {
+    "name": "French Polynesia",
+    "id": "PF",
+    "area": "3521",
+    "density": "76",
+    "population": "268270",
+    "cases": 70826,
+    "deaths": 645,
+    "recovered": 0
+  },
+  {
+    "name": "Ivory Coast",
+    "id": "CI",
+    "area": "322921",
+    "density": "72",
+    "population": "23202000",
+    "cases": 81626,
+    "deaths": 796,
+    "recovered": 80758
+  },
+  {
+    "name": "Timor-Leste",
+    "id": "TL",
+    "area": "14919",
+    "density": "71",
+    "population": "1066409",
+    "cases": 22789,
+    "deaths": 129,
+    "recovered": 22596
+  },
+  {
+    "name": "Samoa",
+    "id": "WS",
+    "area": "2831",
+    "density": "66",
+    "population": "187820",
+    "cases": 49,
+    "deaths": 0,
+    "recovered": 28
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "id": "BQ",
+    "area": "322",
+    "density": "66",
+    "population": "21133",
+    "cases": 7739,
+    "deaths": 31,
+    "recovered": 7609
+  },
+  {
+    "name": "Norfolk Island",
+    "id": "NF",
+    "area": "35",
+    "density": "66",
+    "population": "2302",
+    "cases": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "id": "TC",
+    "area": "497",
+    "density": "63",
+    "population": "31458",
+    "cases": 5874,
+    "deaths": 36,
+    "recovered": 5808
+  },
+  {
+    "name": "Montserrat",
+    "id": "MS",
+    "area": "102",
+    "density": "48",
+    "population": "4922",
+    "cases": 174,
+    "deaths": 2,
+    "recovered": 163
+  },
+  {
+    "name": "Wallis and Futuna",
+    "id": "WF",
+    "area": "274",
+    "density": "48",
+    "population": "13135",
+    "cases": 454,
+    "deaths": 7,
+    "recovered": 438
+  },
+  {
+    "name": "Cocos Islands",
+    "id": "CC",
+    "area": "14",
+    "density": "39",
+    "population": "550",
+    "cases": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "id": "SH",
+    "area": "122",
+    "density": "35",
+    "population": "4255",
+    "cases": 2,
+    "deaths": 0,
+    "recovered": 2
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "id": "CD",
+    "area": "2345095",
+    "density": "29.6",
+    "population": "69360000",
+    "cases": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "id": "PM",
+    "area": "242",
+    "density": "25.1",
+    "population": "6081",
+    "cases": 1693,
+    "deaths": 1,
+    "recovered": 1217
+  },
+  {
+    "name": "Vanuatu",
+    "id": "VU",
+    "area": "12190",
+    "density": "21.7",
+    "population": "264652",
+    "cases": 473,
+    "deaths": 1,
+    "recovered": 59
+  },
+  {
+    "name": "Solomon Islands",
+    "id": "SB",
+    "area": "28370",
+    "density": "18.2",
+    "population": "515870",
+    "cases": 9412,
+    "deaths": 125,
+    "recovered": 2121
+  },
+  {
+    "name": "Christmas Island",
+    "id": "CX",
+    "area": "137",
+    "density": "15.1",
+    "population": "2072",
+    "cases": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "New Caledonia",
+    "id": "NC",
+    "area": "18575",
+    "density": "13.9",
+    "population": "258958",
+    "cases": 59785,
+    "deaths": 306,
+    "recovered": 57627
+  },
+  {
+    "name": "Republic of the Congo",
+    "id": "CG",
+    "area": "342000",
+    "density": "13",
+    "population": "4448000",
+    "cases": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "Niue",
+    "id": "NU",
+    "area": "261",
+    "density": "6.18",
+    "population": "1613",
+    "cases": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "name": "French Guiana",
+    "id": "GF",
+    "area": "86504",
+    "density": "2.65",
+    "population": "229040",
+    "cases": 78272,
+    "deaths": 394,
+    "recovered": 11254
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "id": "SJ",
+    "area": "61399",
+    "density": "0.04",
+    "population": "2655",
+    "cases": 0,
+    "deaths": 0,
+    "recovered": 0
+  }
+]

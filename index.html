@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="./images/logo/favicon.png" />
+  <link href="https://cdn.anychart.com/releases/v8/css/anychart-ui.min.css" rel="stylesheet" type="text/css">
+  <link href="https://cdn.anychart.com/releases/v8/fonts/css/anychart-font.min.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+  <link rel="stylesheet" href="./styles/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+  <title>Chống dịch Covid-19</title>
+</head>
+
+<body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
+  <!-- NAVBAR -->
+  <nav class="navbar navbar-expand-sm bg-light fixed-top">
+    <div class="container nav-container">
+      <a class="navbar-brand" href="#">
+        <img class="" src="./images/logo/logo.png" alt="Anti Covid Logo">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+        <span class="navbar-toggler-icon">
+          <span></span>
+        </span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="#home"><span class="vietnamese">TRANG CHỦ</span><span
+                class="english">HOME</span></a>
+          </li>
+          <li class="nav-item">
+            <a id="statistical-nav" class="nav-link" href="#statistical"><span class="vietnamese">THỐNG KÊ</span><span
+                class="english">STATISTICAL</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#what-is-covid"><span class="vietnamese">COVID LÀ GÌ</span><span
+                class="english">WHAT IS COVID</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#symptoms-of-covid"><span class="vietnamese">TRIỆU CHỨNG</span><span
+                class="english">SYMPTOMS</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#treatment"><span class="vietnamese">ĐIỀU TRỊ</span><span
+                class="english">TREATMENT</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#real-story"><span class="vietnamese">CÂU CHUYỆN</span><span class="english">REAL
+                STORY</span></a>
+          </li>
+          <li class="nav-item">
+            <div class="language-toogle">
+              <img class="global-icon" src="./images/icon/global.png" alt="global">
+              <img class="flag vietnamese active" src="./images/icon/vietnam.png" alt="">
+              <img class="flag english" src="./images/icon/united-kingdom.png" alt="">
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- BANNER -->
+  <span class="anchor" id="home" class="section"></span>
+  <section class="banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 banner-content" data-aos-duration="800" data-aos="fade-right">
+          <h2 class="text-center"><span class="vietnamese">Thông điệp COVID-19</span><span class="english">COVID-19
+              Message</span></h2>
+          <h1 class="text-center"><span class="vietnamese">Bảo vệ bản thân,<br>chính là bảo vệ cộng đồng</span><span
+              class="english">Protecting yourself is<br>protecting the community</span></h1>
+          <p class="text-center"><span class="vietnamese">Hiện tại chưa có thuốc đặc trị dịch (COVID-19).<br>
+              Hãy bảo vệ chính bạn đầu tiên.</span>
+            <span class="english">There is no specific medicine to prevent or treat <br>coronavirus disease (COVID-19).
+              Protect yourself first.</span>
+          </p>
+          <div><a href="tel:0908374040"><button class="let-us-help-btn"><span class="vietnamese">LIÊN HỆ VỚI CHÚNG
+                  TÔI</span><span class="english">LET US
+                  HELP</span></button></a></div>
+        </div>
+      </div>
+    </div>
+    <div class="virus-icon-animate">
+      <img class="virus-icon-112" src="./images/icon/virus-icon-112.png" alt="Virus icon">
+      <img class="virus-icon-46" src="./images/icon/virus-icon-46.png" alt="Virus icon">
+      <img class="virus-icon-34" src="./images/icon/virus-icon-34.png" alt="Virus icon">
+      <img class="virus-icon-58" src="./images/icon/virus-icon-58.png" alt="Virus icon">
+      <img class="virus-icon-40" src="./images/icon/virus-icon-40.png" alt="Virus icon">
+      <img class="virus-icon-85" src="./images/icon/virus-icon-112.png" alt="Virus icon">
+      <img class="virus-icon-40-2" src="./images/icon/virus-icon-40.png" alt="Virus icon">
+      <img class="virus-icon-24" src="./images/icon/virus-icon-24.png" alt="Virus icon">
+      <img class="virus-icon-44" src="./images/icon/virus-icon-44.png" alt="Virus icon">
+      <img class="virus-icon-20" src="./images/icon/virus-icon-20.png" alt="Virus icon">
+    </div>
+  </section>
+  <!-- STATISTICAL -->
+  <span class="anchor" id="statistical" class="section"></span>
+  <section class="statistical">
+    <div class="containter-fluid" id="particles-js">
+      <div class="row static-content">
+        <div class="col-md-3 px-0">
+          <div class="col-content text-center" data-aos="fade-right">
+            <h4><span class="vietnamese">CA NHIỄM MỚI</span><span class="english">NEW CASES</span></h4>
+            <p id="new-case-count">125664</p>
+          </div>
+        </div>
+        <div class="col-md-3 px-0">
+          <div class="col-content text-center" data-aos="fade-up">
+            <h4><span class="vietnamese">TỔNG CA NHIỄM</span><span class="english">TOTAL CASES</span></h4>
+            <p id="total-case-count">125664</p>
+          </div>
+        </div>
+        <div class="col-md-3 px-0">
+          <div class="col-content text-center" data-aos="fade-down">
+            <h4><span class="vietnamese">TỔNG CA CHỮA KHỎI</span><span class="english">RECOVERED CASES</span></h4>
+            <p id="recovered-case-count">125664</p>
+          </div>
+        </div>
+        <div class="col-md-3 px-0">
+          <div class="col-content last-content text-center" data-aos="fade-left">
+            <h4><span class="vietnamese">TỔNG CA TỬ VONG</span><span class="english">TOTAL DEATH</span></h4>
+            <p id="death-case-count">125664</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div id="container-map"></div>
+  <!-- WHAT IS COVID-19 -->
+  <span class="anchor" id="what-is-covid" class="section"></span>
+  <section class="what-is-covid">
+    <div class="container desktop">
+      <div animate-active="what-is-covid" class="what-is-covid-content text-center" data-aos="fade-up"
+        data-aos-duration="1000">
+        <h1><span class="vietnamese">COVID LÀ GÌ?</span><span class="english">WHAT IS COVID?</span>
+        </h1>
+        <div class="divider"></div>
+        <p><span class="vietnamese">Bệnh Coronavirus 2019 (COVID-19) là một bệnh truyền nhiễm do hội chứng hô hấp cấp
+            tính nghiêm trọng gây ra coronavirus 2 (SARS-CoV-2). Trường hợp đầu tiên được biết đến được xác định ở Vũ
+            Hán, Trung Quốc, vào tháng 12 năm 2019. Căn bệnh từ đó lan rộng ra toàn thế giới, dẫn đến một đại dịch đang
+            diễn ra.</span><span class="english">Coronavirus disease 2019 (COVID-19) is a contagious disease caused by
+            severe acute respiratory syndrome
+            coronavirus 2 (SARS-CoV-2). The first known case was identified in Wuhan, China, in December 2019. The
+            disease
+            has since spread worldwide, leading to an ongoing pandemic.</span></p>
+        <p><span class="vietnamese">Có 5 biến thể COVID-19 được ghi nhận trên thế giới là: Alpha, Beta, Gamma, Delta và
+            Omicron</span><span class="english">There are 5 types of COVID-19 recorded in the world: Alpha, Beta, Gamma,
+            Delta and Omicron</span></p>
+      </div>
+    </div>
+    <div class="mobile">
+      <!-- Carousel -->
+      <div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+        <!-- Indicators/dots -->
+        <!-- <div class="carousel-indicators">
+          <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+          <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+          <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+        </div> -->
+
+        <!-- The slideshow/carousel -->
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="./images/mobile/what-is-covid-bg/bg-1.png" alt="Alpha" class="d-block" style="width:100%">
+          </div>
+          <div class="carousel-item">
+            <img src="./images/mobile/what-is-covid-bg/bg-2.png" alt="Beta" class="d-block" style="width:100%">
+          </div>
+          <div class="carousel-item">
+            <img src="./images/mobile/what-is-covid-bg/bg-3.png" alt="Gamma" class="d-block" style="width:100%">
+          </div>
+          <div class="carousel-item">
+            <img src="./images/mobile/what-is-covid-bg/bg-4.png" alt="Delta" class="d-block" style="width:100%">
+          </div>
+          <div class="carousel-item">
+            <img src="./images/mobile/what-is-covid-bg/bg-5.png" alt="Omicron" class="d-block" style="width:100%">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- SYMPTOMS OF COVID -->
+  <span class="anchor" id="symptoms-of-covid" class="section"></span>
+  <section class="symptoms-of-covid">
+    <div class="container">
+      <div class="symptoms-header" data-aos="fade-up" data-aos-duration="1000">
+        <h2 class="text-center content-title mb-2 d-flex align-items-center justify-content-center">
+          <span class="vietnamese">TRIỆU CHỨNG COVID</span>
+          <span class="english">SYMPTOMS OF COVID</span>
+        </h2>
+        <div class="divider"></div>
+        <div class="symptoms-des">
+          <p class="top-content"><span class="vietnamese"><span class="text-bold">Các triệu chứng thường gặp
+                nhất:</span>
+              sốt, ho, suy nhược, mất
+              khứu giác, vị giác.</span>
+            <span class="english"><span class="text-bold">The most common symptoms:</span> fever, cough, weak, loss of
+              smell, taste.</span>
+          </p>
+          <p class="top-content"><span class="vietnamese"><span class="text-bold">Các triệu chứng ít gặp hơn:</span> đau
+              họng, đau đầu, tiêu chảy, da nổi mẩn hay ngón tay hoặc ngón chân bị tấy đỏ hoặc tím tái, mắt đỏ và
+              ngứa.</span>
+            <span class="english"><span class="text-bold">Less common symptoms:</span> sore throat, headache, diarrhea,
+              skin
+              rash or red or purple fingers or toes, red and itchy eyes.</span>
+          </p>
+          <p class="top-content"><span class="vietnamese"><span class="text-bold">Các triệu chứng nghiêm trọng:</span>
+              khó
+              thở, đau ngực, mất khả năng nói hay cử động hoặc thấy lú lẫn.</span>
+            <span class="english"><span class="text-bold">Serious symptoms:</span> breathlessness, chest pain, inability
+              to
+              speak or move, or confusion.</span>
+          </p>
+        </div>
+
+      </div>
+      <div class="row mt-5">
+        <div class="col-md-3 symptoms-content" data-aos="fade-down" data-aos-duration="1000">
+          <img src="./images/symptoms/sore-throat.png" alt="Đau họng">
+          <p class="text-center mt-2"><span class="vietnamese">Đau họng</span><span class="english">Sore throat</span>
+          </p>
+        </div>
+        <div class="col-md-3 symptoms-content" data-aos="fade-down-right" data-aos-duration="1000">
+          <img src="./images/symptoms/cough.png" alt="Ho">
+          <p class="text-center mt-2"><span class="vietnamese">Ho</span><span class="english">Cough</span></p>
+        </div>
+        <div class="col-md-3 symptoms-content" data-aos="fade-down-left" data-aos-duration="1000">
+          <img src="./images/symptoms/sneeze.png" alt="Hắt hơi">
+          <p class="text-center mt-2"><span class="vietnamese">Hắt hơi, sổ mũi</span><span class="english">Sneeze</span>
+          </p>
+        </div>
+        <div class="col-md-3 symptoms-content" data-aos="fade-down" data-aos-duration="1000">
+          <img src="./images/symptoms/breathlessness.png" alt="Tức ngực">
+          <p class="text-center mt-2"><span class="vietnamese">Tức ngực, khó thở</span><span
+              class="english">Breathlessness</span></p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-3 symptoms-content" data-aos="fade-up" data-aos-duration="1000">
+          <img src="./images/symptoms/fever.png" alt="Sốt">
+          <p class="text-center mt-2"><span class="vietnamese">Sốt</span><span class="english">Fever</span></p>
+        </div>
+        <div class="col-md-3 symptoms-content" data-aos="fade-up-right" data-aos-duration="1000">
+          <img src="./images/symptoms/weak.png" alt="Mệt mỏi">
+          <p class="text-center mt-2"><span class="vietnamese">Suy nhược</span><span class="english">Weak</span></p>
+        </div>
+        <div class="col-md-3 symptoms-content" data-aos="fade-up-left" data-aos-duration="1000">
+          <img src="./images/symptoms/diarrhea.png" alt="Tiêu chảy">
+          <p class="text-center mt-2"><span class="vietnamese">Tiêu chảy</span><span class="english">Diarrhea</span></p>
+        </div>
+        <div class="col-md-3 symptoms-content" data-aos="fade-up" data-aos-duration="1000">
+          <img src="./images/symptoms/vomit.png" alt="Buồn nôn">
+          <p class="text-center mt-2"><span class="vietnamese">Nôn mửa</span><span class="english">Vomit</span></p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- TREATMENT -->
+  <span class="anchor" id="treatment"></span>
+  <section class="treatment">
+    <div class="container">
+      <div class="treatment-header" data-aos="fade-up" data-aos-duration="1000">
+        <h2 class="mb-2 d-flex align-items-center justify-content-center text-center">
+          <span class="vietnamese">CÁCH ĐIỀU TRỊ COVID TẠI NHÀ</span>
+          <span class="english">TREATMENT COVID AT HOME</span>
+        </h2>
+        <div class="divider divider-white"></div>
+        <p class="treatment-des"><span class="vietnamese">Nếu bạn mắc bệnh COVID-19 hoặc cho rằng bạn có thể đã mắc
+            bệnh
+            COVID-19, làm theo các
+            bước dưới đây để chăm
+            sóc bản thân và giúp bảo vệ những người khác trong nhà và cộng đồng của bạn.</span>
+          <span class="english">If you have COVID-19 or think you may have COVID-19, follow the steps below to take care
+            of
+            yourself and help protect others in your home and community.</span>
+        </p>
+      </div>
+      <div id="treatment-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="15000">
+        <!-- <div> -->
+        <!-- The slideshow/carousel -->
+        <div class="carousel-inner">
+          <div class="carousel-item">
+            <div class="row">
+              <div class="col-md-4 treatment-card d-flex flex-column align-items-center">
+                <img src="./images/treatment/treatment-01.png" alt="Treatment 01">
+                <div class="row d-flex justify-content-center align-items-center">
+                  <div class="col-3 treatment-number">1#</div>
+                  <div class="col-9 treatment-text">
+                    <p class="my-0"><span class="vietnamese"><span class="text-bold">Hãy ở nhà</span> trừ trường hợp cần
+                        được chăm
+                        sóc
+                        y
+                        tế.</span>
+                      <span class="english"><span class="text-bold">Stay home</span> except to get medical care.</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4 treatment-card d-flex flex-column align-items-center">
+                <img src="./images/treatment/treatment-02.png" alt="Treatment 02">
+                <div class="row d-flex justify-content-center align-items-center">
+                  <div class="col-3 treatment-number">2#</div>
+                  <div class="col-9 treatment-text">
+                    <p class="my-0"><span class="vietnamese"><span class="text-bold">Theo dõi các triệu chứng của
+                          bạn</span> cẩn thận.
+                      </span>
+                      <span class="english"><span class="text-bold">Monitor your symptoms</span> carefully.</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4 treatment-card d-flex flex-column align-items-center">
+                <img src="./images/treatment/treatment-03.png" alt="Treatment 03">
+                <div class="row d-flex justify-content-center align-items-center">
+                  <div class="col-3 treatment-number">3#</div>
+                  <div class="col-9 treatment-text">
+                    <p class="my-0"><span class="vietnamese"><span class="text-bold">Nghỉ ngơi và uống đủ
+                          nước.</span></span>
+                      <span class="english"><span class="text-bold">Get rest and stay hydrated.</span></span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="row">
+              <div class="col-md-4 treatment-card d-flex flex-column align-items-center">
+                <img src="./images/treatment/treatment-05.png" alt="Treatment 05">
+                <div class="row d-flex justify-content-center align-items-center">
+                  <div class="col-3 treatment-number">4#</div>
+                  <div class="col-9 treatment-text">
+                    <p class="my-0"><span class="vietnamese">Hãy gọi 115 và
+                        <span class="text-bold">thông báo cho nhân viên y tế.</span></span>
+                      <span class="english">Call 115 and <span class="text-bold">notify the
+                          dispatch
+                          personnel.</span></span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4 treatment-card d-flex flex-column align-items-center">
+                <img src="./images/treatment/treatment-06.png" alt="Treatment 06">
+                <div class="row d-flex justify-content-center align-items-center">
+                  <div class="col-3 treatment-number">5#</div>
+                  <div class="col-9 treatment-text">
+                    <p class="my-0"><span class="vietnamese"><span class="text-bold">Che miệng khi ho và hắt hơi </span>
+                        bằng khăn giấy.</span>
+                      <span class="english"><span class="text-bold">Cover your cough and sneezes </span>with a
+                        tissue.</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4 treatment-card d-flex flex-column align-items-center">
+                <img src="./images/treatment/treatment-07.png" alt="Treatment 07">
+                <div class="row d-flex justify-content-center align-items-center">
+                  <div class="col-3 treatment-number">6#</div>
+                  <div class="col-9 treatment-text">
+                    <p class="my-0"><span class="vietnamese"><span class="text-bold">Thường xuyên rửa tay </span>bằng xà
+                        phòng và cồn.</span>
+                      <span class="english"><span class="text-bold">Wash your hands often </span>with soap and water and
+                        alcohol.</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item active">
+            <div class="row">
+              <div class="col-md-4 treatment-card d-flex flex-column align-items-center">
+                <img src="./images/treatment/treatment-08.png" alt="Treatment 08">
+                <div class="row d-flex justify-content-center align-items-center">
+                  <div class="col-3 treatment-number">7#</div>
+                  <div class="col-9 treatment-text">
+                    <p class="my-0"><span class="vietnamese"><span class="text-bold">Hãy ở phòng riêng và tránh xa những
+                          người khác trong nhà
+                        </span></span>
+                      <span class="english">As much as possible, <span class="text-bold">stay </span>in a specific room
+                        and <span class="text-bold">away from other people </span>in your home.</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4 treatment-card d-flex flex-column align-items-center">
+                <img src="./images/treatment/treatment-09.png" alt="Treatment 09">
+                <div class="row d-flex justify-content-center align-items-center">
+                  <div class="col-3 treatment-number">8#</div>
+                  <div class="col-9 treatment-text">
+                    <p class="my-0"><span class="vietnamese"><span class="text-bold">Tránh dùng chung đồ dùng cá nhân
+                        </span>với những người
+                        khác trong gia đình.</span>
+                      <span class="english"><span class="text-bold">Avoid sharing personal items </span>with other
+                        people in your
+                        household.</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4 treatment-card d-flex flex-column align-items-center">
+                <img src="./images/treatment/treatment-10.png" alt="Treatment 10">
+                <div class="row d-flex justify-content-center align-items-center">
+                  <div class="col-3 treatment-number">9#</div>
+                  <div class="col-9 treatment-text">
+                    <p class="my-0"><span class="vietnamese"><span class="text-bold">Làm sạch tất cả các bề mặt </span>
+                        thường xuyên tiếp xúc.</span>
+                      <span class="english"><span class="text-bold">Clean all surfaces </span>that are touched
+                        often.</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Left and right controls/icons -->
+        <div class="carousel-control">
+          <button class="carousel-control-btn" data-bs-target="#treatment-carousel" data-bs-slide="prev">
+            <img src="./images/icon/prev-btn.png" alt="Prev">
+          </button>
+          <button class="carousel-control-btn" data-bs-target="#treatment-carousel" data-bs-slide="next">
+            <img src="./images/icon/next-btn.png" alt="Next">
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- FORM -->
+  <section class="contact-form" data-aos="fade-in" data-aos-duration="2000">
+    <div class="container">
+      <div class="row px-3">
+        <div class="col-md-7"></div>
+        <div class="col-md-5 form-container">
+          <h2 class="text-center"><span class="vietnamese">Bạn có câu hỏi? <br>Để chúng tôi giúp bạn.</span>
+            <span class="english">Have questions in mind? <br>Let us help you.</span>
+          </h2>
+          <div class="divider divider-white"></div>
+          <form id="contact-form" class="">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="mb-3 mt-3 uname-container remove-mb">
+                  <input type="text" class="form-control" id="uname" placeholder="Họ tên" name="uname">
+                  <div class="validate-mark">
+                    <img class="valid-mark-uname" src="./images/icon/check-mark.png" alt="Valid mark">
+                    <img class="invalid-mark-uname" src="./images/icon/close.png" alt="Invalid mark">
+                  </div>
+                  <p class="uname-mess">Mess</p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="mb-3 mt-3 uname-container">
+                  <input class="form-control" id="email" type="email" name="email" placeholder="E-mail">
+                  <div class="validate-mark">
+                    <img class="valid-mark-email" src="./images/icon/check-mark.png" alt="Valid mark">
+                    <img class="invalid-mark-email" src="./images/icon/close.png" alt="Invalid mark">
+                  </div>
+                  <p class="email-mess">Mess</p>
+                </div>
+              </div>
+            </div>
+            <div class="mb-3 uname-container">
+              <input type="text" class="form-control" id="phone" placeholder="Số điện thoại" name="phone">
+              <div class="validate-mark">
+                <img class="valid-mark-phone" src="./images/icon/check-mark.png" alt="Valid mark">
+                <img class="invalid-mark-phone" src="./images/icon/close.png" alt="Invalid mark">
+              </div>
+              <p class="phone-mess">Mess</p>
+            </div>
+            <div class="mb-3">
+              <textarea class="form-control" rows="4" id="comment" name="comment" placeholder="Nội dung"></textarea>
+            </div>
+            <div class="d-flex justify-content-end">
+              <button type="submit" class="submit-btn"><span class="vietnamese">Gửi</span>
+                <span class="english">Send</span></button>
+            </div>
+          </form>
+          <div class="alert alert-success alert-dismissible fade alert-mess d-flex">
+            <strong><span class="vietnamese">Gửi thành công! </span>
+              <span class="english">Success!</span></strong><span class="vietnamese">Chúng tôi sẽ liên lạc cho bạn
+              ngay.</span>
+            <span class="english"> We will contact you soon.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </section>
+  <!-- REAL_STORY -->
+  <span class="anchor" id="real-story" class="section"></span>
+  <section class="real-story">
+    <div class="container">
+      <h2 class="mb-2 d-flex align-items-center justify-content-center text-center" data-aos="fade-up"
+        data-aos-duration="1000">
+        <span class="vietnamese">CÂU CHUYỆN - NHỮNG ANH HÙNG <br>KHÔNG ÁO CHOÀNG</span>
+        <span class="english">REAL STORY - THE HEROS <br>WHITHOUT CAPE</span>
+      </h2>
+      <div class="divider"></div>
+      <div class="row mb-5">
+        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1000">
+          <img src="./images/story/story-1.png" alt="Story 1">
+        </div>
+        <div class="col-md-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-duration="1000">
+          <h3 class="story-title"><span class="vietnamese">Cảm ơn những hy sinh: Tôn vinh y bác sĩ tuyến đầu chống
+              dịch</span>
+            <span class="english">Thank you for the sacrifices: Honoring the frontline doctors in the fight against the
+              epidemic</span>
+          </h3>
+          <div class="mini-divider"></div>
+          <p class="story-content"><span class="vietnamese">Mắt ướt nhòa khi không thể gặp mặt cha mẹ lần cuối; lòng đau
+              nhói nhìn đứa con thơ
+              khóc ngằn ngặt đòi sữa mẹ; lo lắng đến nao lòng cho sức khỏe của người thân mà chẳng thể ở bên chăm
+              sóc…</span>
+            <span class="english">Eyes wet from not being able to see their parents for the last time; heartache to see
+              a young child crying bitterly for breast milk; Worried about the health of loved ones but can't be there
+              to take care of them...</span>
+          </p>
+          <div class="d-flex justify-content-end">
+            <a target="_blank"
+              href="http://hocvienpkkq.com/tin/index.php/vi/news/Tu-lieu/Cam-on-nhung-hy-sinh-Chien-dich-y-nghia-ton-vinh-y-bac-si-tuyen-dau-chong-dich-2271/">
+              <button class="read-more-btn">
+                <span class="vietnamese">Xem thêm</span>
+                <span class="english">Read more</span>
+              </button>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="row mb-5">
+        <div class="col-md-6 order-2 order-md-1 d-flex flex-column justify-content-center story-2" data-aos="fade-right"
+          data-aos-duration="1000">
+          <h3 class="story-title text-align-right"><span class="vietnamese">Câu chuyện về <br> bác sĩ cạo đầu chống
+              dịch</span>
+            <span class="english">The story of the doctor who shaved his hair to fight the epidemic</span>
+          </h3>
+          <div class="mini-divider"></div>
+          <p class="story-content"><span class="vietnamese">Nụ cười tỏa nắng đó là của bác sĩ Đặng Minh Hiệu (sinh năm
+              1993), hiện công tác tại
+              khoa gây mê hồi sức Bệnh viện Đại học Y dược TP.HCM. Minh Hiệu cạo đầu để lên đường sẵn sàng chi viện cho
+              tâm dịch Bắc Giang, vì "đi chưa biết ngày nào về"...</span>
+            <span class="english">That sunny smile belongs to Dr. Dang Minh Hieu (born in 1993), currently working at
+              the Department of Anesthesiology and Resuscitation, University of Medicine and Pharmacy Hospital, Ho Chi
+              Minh City...</span>
+          </p>
+          <div class="d-flex justify-content-end">
+            <a target="_blank"
+              href="https://tuoitre.vn/bac-si-tre-cao-dau-truoc-khi-vao-tam-dich-co-toc-hay-khong-thi-nu-cuoi-van-toa-nang-20210530082552381.htm">
+              <button class="read-more-btn">
+                <span class="vietnamese">Xem thêm</span>
+                <span class="english">Read more</span>
+              </button>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-6 order-1 order-md-2" data-aos="fade-down" data-aos-duration="1000">
+          <img src="./images/story/story-2.png" alt="Story 2">
+        </div>
+      </div>
+      <div class="row mb-5">
+        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1000">
+          <img src="./images/story/story-3.png" alt="Story 3">
+        </div>
+        <div class="col-md-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-duration="1000">
+          <h3 class="story-title"><span class="vietnamese">các y bác sĩ ngất xỉu khi chống dịch</span>
+            <span class="english">Doctors fainted while fighting the epidemic</span>
+          </h3>
+          <div class="mini-divider"></div>
+          <p class="story-content"><span class="vietnamese">Tình hình dịch bệnh đang diễn biến phức tạp trên cả nước.
+              Các nhân viên y tế phải mặc
+              quần áo bảo hộ cả ngày để lấy mẫu xét nghiệm. Công việc quá tải, làm nhiều giờ liên tục dưới cái nắng gay
+              gắt đã khiến các nhân viên y tế bị ngất xỉu trong lúc làm việc...</span>
+            <span class="english">The epidemic situation is complicated throughout the country. Medical staff must wear
+              protective clothing all day to collect samples for testing. Overworked work, working long hours in the hot
+              sun made medical staff faint while working...</span>
+          </p>
+          <div class="d-flex justify-content-end">
+            <a target="_blank" href="https://thanhnien.vn/ngat-xiu-kiet-suc-tren-duong-chong-dich-post1103778.html">
+              <button class="read-more-btn">
+                <span class="vietnamese">Xem thêm</span>
+                <span class="english">Read more</span>
+              </button>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="video-story">
+        <iframe src="https://www.youtube.com/embed/YvsKYVLdsL4" title="YouTube video player" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+      </div>
+    </div>
+  </section>
+  <section class="dev-team">
+    <div class="container">
+      <h2 class="mb-2 d-flex align-items-center justify-content-center text-center" data-aos="fade-up"
+        data-aos-duration="1000">
+        <span class="vietnamese">ĐỘI NGŨ PHÁT TRIỂN</span>
+        <span class="english">DEVELOPMENT TEAM</span>
+      </h2>
+      <div class="divider"></div>
+      <div class="row team-wrapper">
+        <div class="col-md-6 team-card-container" data-aos="fade-down" data-aos-duration="1000">
+          <div class="team-card d-flex flex-column justify-content-end">
+            <p class="d-flex"><span class="team-name"><span class="vietnamese">Phạm Phú Diện</span>
+                <span class="english">Pham Phu Dien</span></span> - Developer
+            </p>
+            <p><span class="vietnamese">Học viên: Aptech Batch 165</span>
+              <span class="english">Student: Aptech Batch 165</span>
+            </p>
+            <p><span class="vietnamese">Số điện thoại: 0908 37 40 40</span>
+              <span class="english">Phone number: 0908 37 40 40</span>
+            </p>
+            <p>Email: phamphudien@gmail.com</p>
+          </div>
+          <div class="avatar">
+            <img src="./images/dev-team/avatar-dien.png" alt="Avatar Dien">
+          </div>
+        </div>
+        <div class="col-md-6 team-card-container" data-aos="fade-up" data-aos-duration="1000">
+          <div class="team-card d-flex flex-column justify-content-end">
+            <p class="d-flex"><span class="team-name"><span class="vietnamese">Trần Văn Hiếu</span>
+                <span class="english">Tran Van Hieu</span></span> - Designer UI/UX
+            </p>
+            <p><span class="vietnamese">Học viên: Arena Batch 68</span>
+              <span class="english">Student: Arena Batch 68</span>
+            </p>
+            <p><span class="vietnamese">Số điện thoại: 0796 266 589</span>
+              <span class="english">Phone number: 0796 266 589</span>
+            </p>
+            <p>Email: vanhieu295262@gmail.com</p>
+          </div>
+          <div class="avatar">
+            <img src="./images/dev-team/avatar-hieu.png" alt="Avatar Hieu">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 img-logo">
+          <div class="mb-3"><a href="#home"><img src="./images/logo/logo.png" alt="Logo"></a></div>
+          <div><a href="https://aptech-danang.edu.vn/"><img src="./images/logo/banner-sm.jpeg" alt="Logo Aptech"></a>
+          </div>
+        </div>
+        <div class="col-md-5 d-flex flex-column justify-content-center align-items-center">
+          <div class="fb-page mb-3" data-href="https://www.facebook.com/softechaptech" data-tabs="timeline"
+            data-width="350" data-height="80" data-small-header="false" data-adapt-container-width="false"
+            data-hide-cover="false" data-show-facepile="false">
+            <blockquote cite="https://www.facebook.com/softechaptech" class="fb-xfbml-parse-ignore"><a
+                href="https://www.facebook.com/softechaptech">Aptech Đà Nẵng - Lập trình viên quốc tế</a></blockquote>
+          </div>
+          <div class="fb-page" data-href="https://www.facebook.com/softecharena" data-tabs="timeline" data-width="350"
+            data-height="80" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false"
+            data-show-facepile="false">
+            <blockquote cite="https://www.facebook.com/softecharena" class="fb-xfbml-parse-ignore"><a
+                href="https://www.facebook.com/softecharena">Arena Đà Nẵng - Mỹ thuật đa phương tiện quốc tế</a>
+            </blockquote>
+          </div>
+        </div>
+        <div class="col-md-2 footer-link">
+          <div class="home-footer"><a href="#home"><span class="vietnamese">TRANG CHỦ</span>
+              <span class="english">HOME</span></a></div>
+          <div><a href="#home"><span class="vietnamese">THỐNG KÊ</span>
+              <span class="english">STATISTICAL</span></a></div>
+          <div><a href="#home"><span class="vietnamese">COVID LÀ GÌ</span>
+              <span class="english">WHAT IS COVID</span></a></div>
+          <div><a href="#home"><span class="vietnamese">TRIỆU CHỨNG</span>
+              <span class="english">SYMPTOMS</span></a></div>
+          <div><a href="#home"><span class="vietnamese">ĐIỀU TRỊ</span>
+              <span class="english">TREATMENT</span></a></div>
+          <div><a href="#home"><span class="vietnamese">CÂU CHUYỆN</span>
+              <span class="english">REAL STORY</span></a></div>
+          <div class="follow-us">
+            <div><a class="link-follow" href="">FOLLOW US</a></div>
+            <div class="social-icon d-flex">
+              <a href="https://www.facebook.com/Health-Care-Center-109005808413614"><img
+                  src="./images/icon/facebook-icon.png" alt="Facebook"></a>
+              <a href="https://www.youtube.com/"><img src="./images/icon/youtube-icon.png" alt="Youtube"></a>
+              <a href="https://www.linkedin.com/"><img src="./images/icon/in-icon.png" alt="Linkedin"></a>
+              <a href="https://www.instagram.com/"><img src="./images/icon/instagram-icon.png" alt="Instagram"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="copy-right"><span class="vietnamese">2022 Bản quyền &copy; Team WE-ARE-TECH</span>
+        <span class="english">2022 Copyright &copy; Team WE-ARE-TECH</span></a>
+      </div>
+    </div>
+    </div>
+  </footer>
+
+  <!-- LEFT SCROLL SPY -->
+  <section class="side-navigator">
+    <nav id="sub-nav" class="sub-nav">
+      <ul class="nav-menu">
+        <li>
+          <a data-scroll="home" href="#home" class="dot active">
+            <span>Trang chủ</span>
+          </a>
+        </li>
+        <li>
+          <a data-scroll="statistical" href="#statistical" class="dot">
+            <span>Thống kê</span>
+          </a>
+        </li>
+        <li>
+          <a data-scroll="what-is-covid" href="#what-is-covid" class="dot">
+            <span>Covid là gì</span>
+          </a>
+        </li>
+        <li>
+          <a data-scroll="symptoms-of-covid" href="#symptoms-of-covid" class="dot">
+            <span>Triệu chứng</span>
+          </a>
+        </li>
+        <li>
+          <a data-scroll="treatment" href="#treatment" class="dot">
+            <span>Điều trị</span>
+          </a>
+        </li>
+        <li>
+          <a data-scroll="real-story" href="#real-story" class="dot">
+            <span>Câu chuyện</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+  </section>
+
+  <!-- CALL ACTION -->
+  <div class="log-in">
+    <a href="tel:0908374040" id="call-btn">
+      <div class="circlephone" style="transform-origin: center;"></div>
+      <div class="circle-fill" style="transform-origin: center;"></div>
+      <div class="img-circle" style="transform-origin: center;">
+        <div class="img-circleblock" style="transform-origin: center;"></div>
+      </div>
+    </a>
+  </div>
+
+  <!-- ZALO WIDGET -->
+  <!-- Messenger Plugin chat Code -->
+  <div id="fb-root"></div>
+
+  <!-- Your Plugin chat code -->
+  <div id="fb-customer-chat" class="fb-customerchat">
+  </div>
+
+  <script>
+    var chatbox = document.getElementById('fb-customer-chat');
+    chatbox.setAttribute("page_id", "109005808413614");
+    chatbox.setAttribute("attribution", "biz_inbox");
+  </script>
+
+  <!-- Your SDK code -->
+  <script>
+    window.fbAsyncInit = function () {
+      FB.init({
+        xfbml: true,
+        version: 'v13.0'
+      });
+    };
+
+    (function (d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+  <!-- <div class="zalo-chat-widget" data-oaid="579745863508352884" data-welcome-message="Rất vui khi được hỗ trợ bạn!"
+    data-autopopup="0" data-width="30" data-height="300"></div>
+
+  <script src="https://sp.zalo.me/plugins/sdk.js"></script> -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init({
+      disable: function () {
+        var maxWidth = 1140;
+        return window.innerWidth < maxWidth;
+      }
+    });
+  </script>
+  <!-- Map Lib -->
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-ui.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-exports.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-map.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-data-adapter.min.js"></script>
+  <script src="https://cdn.anychart.com/geodata/latest/custom/world/world.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.3.15/proj4.js"></script>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+  <script src="./js/map.js"></script>
+  <script src="./js/script.js"></script>
+</body>
+
+</html>

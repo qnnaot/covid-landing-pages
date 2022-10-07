@@ -1,0 +1,133 @@
+@media screen and (max-width: 480px) {
+  .video-story iframe {
+    width: 100%;
+    height: 200px;
+  }
+  .navbar-brand {
+    height: 90px;
+    margin-right: 0;
+  }
+  .nav-item:last-child {
+    margin-top: 20px;
+  }
+  .navbar-collapse {
+    background-color: white;
+    width: 100vw;
+    padding: 0 16px;
+  }
+  .nav-container {
+    padding: 0;
+    box-shadow: rgba(26, 26, 26, 0.7) 0 0 4px;
+  }
+  .language-toggle {
+    margin-top: 20px;
+  }
+  /* STATISTICAL */
+  .statistical {
+    height: 500px;
+  }
+  .col-content {
+    border-right: none !important;
+    border-bottom: 1px solid var(--fourth-color);
+    margin: 0 60px;
+  }
+  #container-map {
+    display: none;
+  }
+  .what-is-covid {
+    background-image: none;
+    position: relative;
+    height: 1000px;
+  }
+  .desktop {
+    position: absolute;
+    top: 0;
+    z-index: 9;
+  }
+  .mobile {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+  .symptoms-des {
+    padding: 0;
+  }
+
+  /* TREATMENT */
+  .treatment-des {
+    padding: 0 !important;
+  }
+
+  /* CONTACT FORM */
+  .remove-mb {
+    margin-bottom: 0 !important;
+  }
+  .real-story h3 {
+    padding: 0 12px;
+    margin-top: 16px;
+  }
+  .story-content {
+    padding: 0 12px;
+  }
+  .mini-divider {
+    margin-left: 12px;
+  }
+  .story-2 {
+    align-items: flex-start !important;
+  }
+  .text-align-right {
+    text-align: start;
+  }
+  .team-wrapper {
+    padding-bottom: 40px;
+  }
+  footer .row {
+    justify-content: center;
+  }
+  .img-logo {
+    width: 100% !important;
+    margin-bottom: 40px;
+  }
+  .img-logo img {
+    width: 100%;
+  }
+
+  .footer-link {
+    margin-top: 40px;
+    text-align: center;
+  }
+  .social-icon {
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 428px) {
+  .what-is-covid {
+    height: 900px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  /* BANNER */
+  .virus-icon-85 {
+    display: none;
+  }
+}
+@media screen and (max-width: 393px) {
+  .what-is-covid {
+    height: 800px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .what-is-covid {
+    height: 650px;
+  }
+  .avatar {
+    width: 250px;
+  }
+  .team-card {
+    padding-left: 20px;
+    font-size: 18px;
+  }
+}
