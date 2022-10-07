@@ -1,7 +1,7 @@
 @media screen and (max-width: 1024px) {
   .banner {
     background-position: 100%;
-    background-size: 100%;
+    background-size: 70%;
   }
   .treatment .treatment-des {
     padding: 0 200px;

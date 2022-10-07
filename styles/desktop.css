@@ -105,8 +105,8 @@ h6 {
 }
 .navbar-brand img {
   /* height: 90px; */
-  height: 100%;
-  width: 100%;
+  height: auto;
+  width: 80%;
   transition: height 1s;
 }
 .navbar-collapse {
@@ -187,12 +187,12 @@ h6 {
 }
 /* BANNER */
 .banner {
-  margin-top: 90px;
-  height: 590px;
-  background-image: url(../images/banner-background/banner.png);
-  background-position: 70%;
+  margin-top: 10px;
+  height: auto;
+  background-image: url(../images/banner-background/banner1.png);
+  background-position: 80%;
   background-repeat: no-repeat;
-  background-size: 70%;
+  background-size: 50%;
   position: relative;
 }
 .banner-content {
@@ -222,8 +222,9 @@ h6 {
 }
 .let-us-help-btn {
   background-color: white;
-  border: 4px solid var(--fourth-color);
-  border-radius: 15px;
+  /*border: 4px solid var(--fourth-color);*/
+  /*border-radius: 15px;*/
+  border-radius: 50px;
   font-weight: 900;
   font-size: 18px;
   line-height: 1;
